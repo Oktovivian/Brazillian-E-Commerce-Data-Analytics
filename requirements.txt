@@ -1,0 +1,8 @@
+streamlit
+pickle
+numpy
+matplotlib
+folium
+streamlit_folium
+geopandas
+poltly.express
