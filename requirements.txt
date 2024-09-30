@@ -1,8 +1,7 @@
 streamlit
-pickle
 numpy
 matplotlib
 folium
-streamlit_folium
+streamlit-folium
 geopandas
-poltly.express
+plotly
